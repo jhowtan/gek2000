@@ -4,19 +4,87 @@ _Week 8 was a hiatus week (Hari Raya Haji) - no class_
 
 > From the Foner reading (p144 - 161), critically evaluate the new definition of American freedom and modernity __concentrate on pg 147-151__
 
+### Discussion:
+*pg 147*
+
+* Conventional notion of freedom was centered on economic and political sovereignty.
+* New notion of freedom: Consumer freedom - more goods on the market, more choice implies more freedom.
+    - "As opposed to older ones centering on economic autonomy and political sovereignty, freedom was available to women as fully as men.""
+
+*pg148* - enabled socially consscious to unite with wage-earners by taking cognizance of the exploitative conditions under which goods were produced.
+
+*pg151* - standard of living a sacred acquisition which they will defend at any price; Gave rise to new society & 'consumptionism'; "Elections were no longer "lively centers" of public attention as in the 19th C and voter turnout had fallen dramatically."
+
+* New modernity only benefitted the upper class; middle class had to protest and unionize for their own rights and privileges.
+* New values of prosperity and progress as a result of the progressivism movement also eroded the ideas of the old thought on Freedom; society as a whole (regardless of sex) was brought on the bandwagon for consumption and 'choice' - modernity.
+
+### Billy:
+*Freedom* (brought about by what?) - __Mass Consumerism__
+
+* What we take for granted today started in America just before the first World War
+* More than one commercial product; Having a choice in what to buy (Distraction?)
+* Behind consumerism: Mass production - industrialisation, progress in technology (Modernity)
+* the Great Equalizer: Access to commercial products to all (parallels to Black Slaves that equalized the poor and rich Whites in the South)
+
+*pg 148*
+
+>"Later social critics would see mass consumption as a diminished, depoliticized utopia, which abandoned older foundations of freedom such as active participation in public affairs in favor of passive citizenship and privatized aspirations."
+
+* Consciously/Unconsciously gave away political participation (freedom) in order for economic participation (a disguise) - passive citizenship; loss of decision making power due to distraction of materialist desires
+* Consumerism brings out power (newfound freedom) for housewives - consumer power; previously, form organisations and societies to rally for their political activity
+* Mass consumption eliminated the desire for 'Want' - everything readily accessible
+
+*pg 151*
+>In Muncie, the Lynds found that new leisure activities and a new emphasis on consumption had supplanted politics as the focus of public concern.
+
+* Oblivious to the political realm (loss of freedom?)
 
 ## Question 2
 
-> How do the Gregory and Coogan readings differ in their interpretation of Woodrow Wilson's neutrality?
+> How do the Gregory and Coogan readings differ in their interpretation of Woodrow Wilson's neutrality? __concentrate on pg 50-71__
+
+*Zimmerman telegram and Wilson's war message serve as the context for the discussion -- Different in terms of how they intepreted Wilson's neutrality.*
+
+### Wilson thinks that neutrality is ___ for the Coogan reading:
+
+* Nationality - Anti-German
+    - Every paragraph on page 64: "Washington did nothing."
+        + British kept pushing the boundaries of how the Americans reacted to their submarine warfare
+    - As opposed to page 66: "note signed by secretary of state"
+        + Basically went against everything that it stood for in 64-65.
+* Both nationalities are governed under a Monarchy - nothing to do with system of rule, but with regards to where they come from (Nationality)
+* *Neutrality is not neutral*
+
+### Wilson thinks that neutrality is ___ for the Gregory reading:
+
+What is the supposed 'Breaking Point'? - what was the main trigger?
+
+* Submarine Warfare
+    - Attacked American ships
+    - Regardless of Nationality (prestige);
+
+*pg 58*
+
+>For all the popular indignation over the invasion of Belgium and other allegedly atrocious German warfare, there still did not develop in the US a large movement for intervention.
+
+*pg 60*
+
+>What had started as efforts to promote prosperity and neutral rights developed into questions of national honor and prestige. Wilson faced not merely the possibliity of abandoning economic rights but the humiliating prospect of allowing the Germans to force him to it. The more hazardous it became to exercise American rights, the more difficult it was to yield them.
+
+Unilateralism (Monroe Doctrine); America did not want to be seen as a "push over"
 
 ---
 
 ## Readings
-Two critical events, the end of the First World War and beginning of the Great Depression, marked the bound- aries of the 1920s. In the war’s aftermath, traditional customs and values weakened as women and men sought new forms of self-expression and gratification. A host of effects from modern science and technology—auto- mobiles, electric appliances, and mass media, especially radio—touched the lives of rich and poor alike. Sports and movies made entertainment more accessible. More- over, the decade’s freewheeling consumerism enabledordinary Americans to emulate wealthier people not only by purchasing more but also by trying to get rich through stock market speculation. The depression that followed the stock market crash stifled these habits, at least for a while.
-Beneath the “new era” lurked two important phenom- ena rooted in previous eras. One was the continued preju- dice and ethnic tensions that had long tainted the American dream. As Klansmen and immigration restrictionists made their voices heard, they encouraged discrimination against racial minorities and slurs against supposedly inferior ethnic groups. Meanwhile, the distinguishing forces of twentieth-century life—technological change, bureaucratization, mass culture, and growth of the middle class—accelerated, making the decade truly “new.” Both phenomena would recur as major themes in the nation’s history for the rest of the twentieth century.In the 1930s, a major economic crisis threatened the future of the nation. By 1933, almost one-quarter of America’s workers were unemployed. Millions of people did not have enough to eat or adequate places to live. Herbert Hoover, elected president in 1928, believed that government should play only a limited role in managing and regulating the nation’s economy. He tried to solve the nation’s economic problems through “associational- ism,” a voluntary partnership of businesses and the fed- eral government. In the 1932 presidential election, voters turned to the candidate who promised them a “New Deal.” President Franklin Delano Roosevelt acted decisively to stabilize America’s capitalist system and then worked to ameliorate its harshest impacts on the nation’s people.
-The New Deal was a liberal reform program that developed within the parameters of America’s capitalist and democratic system. Most fundamentally, it expanded the role and power of the federal government. Because of New Deal reforms, banks, utilities, stock markets,farms, and most businesses operated in accord with rules set by the federal government. The federal government guaranteed workers’ right to join unions without fear of employer reprisals, and federal law required employers to negotiate with workers’ unions to set wages, hours, and working conditions. Many unemployed workers, elderly and disabled Americans, and dependent children were protected by a national welfare system administered through the federal government. And the president, through the power of the mass media and his own charisma, became an important presence in the lives of ordinary Americans.
-The New Deal faced challenges from many direc- tions. As the depression wore on, populist demagogues blamed scapegoats or offered overly simple explanations for the plight of the American people. Business leaders attacked the New Deal for its new regulation of business and its support of organized labor. As the federal govern- ment expanded its role throughout the nation, tensions between national and local authority sometimes flared up, and differences in regional ways of life and in social and economic structures presented challenges to national policymakers. Both the West and the South were trans- formed by federal government action, but citizens of both regions were suspicious of federal intervention, and white southerners strongly resisted any attempt to chal- lenge the racial system of Jim Crow. The political reali- ties of a fragile New Deal coalition and strong opposition shaped—and limited—New Deal programs of the 1930s and the social welfare systems with which Americans still live today.
-It was the economic boom created by America’s entry into World War II, not the New Deal, that ended the Great Depression. However, New Deal programs helped many of America’s people live better, more secure lives. And the New Deal fundamentally changed the way that the U.S. government would deal with future eco- nomic downturns and with the needs of its citizens in good times and in bad.
+Two critical events, the end of the First World War and beginning of the Great Depression, marked the bound- aries of the 1920s. In the war’s aftermath, traditional customs and values weakened as women and men sought new forms of self-expression and gratification. A host of effects from modern science and technology—auto- mobiles, electric appliances, and mass media, especially radio—touched the lives of rich and poor alike. Sports and movies made entertainment more accessible. More- over, the decade’s freewheeling consumerism enabled
+ordinary Americans to emulate wealthier people not only by purchasing more but also by trying to get rich through stock market speculation. The depression that followed the stock market crash stifled these habits, at least for a while.
+Beneath the “new era” lurked two important phenom- ena rooted in previous eras. One was the continued preju- dice and ethnic tensions that had long tainted the American dream. As Klansmen and immigration restrictionists made their voices heard, they encouraged discrimination against racial minorities and slurs against supposedly inferior ethnic groups. Meanwhile, the distinguishing forces of twentieth-century life—technological change, bureaucratization, mass culture, and growth of the middle class—accelerated, making the decade truly “new.” Both phenomena would recur as major themes in the nation’s history for the rest of the twentieth century.
+
+In the 1930s, a major economic crisis threatened the future of the nation. By 1933, almost one-quarter of America’s workers were unemployed. Millions of people did not have enough to eat or adequate places to live. Herbert Hoover, elected president in 1928, believed that government should play only a limited role in managing and regulating the nation’s economy. He tried to solve the nation’s economic problems through “associational- ism,” a voluntary partnership of businesses and the fed- eral government. In the 1932 presidential election, voters turned to the candidate who promised them a “New Deal.” President Franklin Delano Roosevelt acted decisively to stabilize America’s capitalist system and then worked to ameliorate its harshest impacts on the nation’s people.
+The New Deal was a liberal reform program that developed within the parameters of America’s capitalist and democratic system. Most fundamentally, it expanded the role and power of the federal government. Because of New Deal reforms, banks, utilities, stock markets,
+farms, and most businesses operated in accord with rules set by the federal government. The federal government guaranteed workers’ right to join unions without fear of employer reprisals, and federal law required employers to negotiate with workers’ unions to set wages, hours, and working conditions. Many unemployed workers, elderly and disabled Americans, and dependent children were protected by a national welfare system administered through the federal government. And the president, through the power of the mass media and his own charisma, became an important presence in the lives of ordinary Americans.
+The New Deal faced challenges from many direc- tions. As the depression wore on, populist demagogues blamed scapegoats or offered overly simple explanations for the plight of the American people. Business leaders attacked the New Deal for its new regulation of business and its support of organized labor. As the federal govern- ment expanded its role throughout the nation, tensions between national and local authority sometimes flared up, and differences in regional ways of life and in social and economic structures presented challenges to national policymakers. Both the West and the South were trans- formed by federal government action, but citizens of both regions were suspicious of federal intervention, and white southerners strongly resisted any attempt to chal- lenge the racial system of Jim Crow. The political reali- ties of a fragile New Deal coalition and strong opposition shaped—and limited—New Deal programs of the 1930s and the social welfare systems with which Americans still live today.
+It was the economic boom created by America’s entry into World War II, not the New Deal, that ended the Great Depression. However, New Deal programs helped many of America’s people live better, more secure lives. And the New Deal fundamentally changed the way that the U.S. government would deal with future eco- nomic downturns and with the needs of its citizens in good times and in bad.
 
 ## US Between the Wars
 
