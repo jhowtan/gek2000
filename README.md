@@ -14,6 +14,7 @@ The existing list of notes built can be found below.
 * [Week 7](https://github.com/jhowtan/gek2000/blob/master/week7.md)
 * *Week 8 does not exist because of the public holiday*
 * [Week 9](https://github.com/jhowtan/gek2000/blob/master/week9.md)
+* [Week 10](https://github.com/jhowtan/gek2000/blob/master/week10.md)
 
 ## Remarks
 
