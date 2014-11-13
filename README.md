@@ -19,18 +19,15 @@ The existing list of notes built can be found below.
 * [Week 12](https://github.com/jhowtan/gek2000/blob/master/week12.md)
 * [Week 13](https://github.com/jhowtan/gek2000/blob/master/week13.md)
 
-## Themes for Exam
+## PDF scanned handwritten notes
 
-* Creating a constitutional nation (Free/Freedom/Liberty/Democracy/Equality)
-* Developing a continental nation (Rich/Economy/Spending)
-* Becoming a global power (Powerful/Global)
+*To be uploaded*
 
-## Sample Questions
+##Themes for Exam
 
-### Obtained from the NUSLib Exam Database
-**Will sort out the questions according to their categories at a later point.**
+*Sample questions obtained from the NUSLib Exam Database*
 
-* Creating a constitutional nation (Free/Freedom/Liberty/Democracy/Equality)
+* **Creating a constitutional nation** (Free/Freedom/Liberty/Democracy/Equality)
     1. Since 1776, the US Constitution and its evolving interpretation have helped to define what it means to be American. Discuss.
     2. Why does the US Constitution have an iconic place in the way that Americans perceive their democratic rights and safeguards?
     2. In your opinion, what historical developments in 19th Century led to the American Civil War of 1861–65?
@@ -38,7 +35,7 @@ The existing list of notes built can be found below.
     20. Franklin Delano Roosevelt won the presidency four times. How did he change the presidency and American foreign policy?
     21. Why was the 1960s regarded as a watershed decade in American history?
 
-* Developing a continental nation (Rich/Economy/Spending)
+* **Developing a continental nation** (Rich/Economy/Spending)
     3. Mark Twain labeled the decades from the 1860s to the 1890s the “Gilded Age”. Discuss.
     4. How were the reforms of Progressivism and the New Deal crucial to understanding American politics, economy and society in the 20th Century?
     5. How did the outcome of the First World War affect the ways in which the American government and people interpreted and prepared for the Second World War?
@@ -48,7 +45,7 @@ The existing list of notes built can be found below.
     13. Both Progressivism and the New Deal represented attempts to address economic and political inequality. Discuss.
     16. By the beginning of the 20th Century, ‘...a consumer definition of freedom began to supplant an older version centered on political freedom and economic equality’. Critically assess this statement.
 
-* Becoming a global power (Powerful/Global)
+* **Becoming a global power** (Powerful/Global)
     6. The 1960s was a tumultuous decade in US history. Write a critical essay describing the domestic and foreign policy challenges that confronted the American people.
     9. Critically examine the changes in American society and culture in the 1920s and 1930s.
     10. How did the campaign for civil rights and the debate over the Vietnam War affect American democracy at home and abroad?
