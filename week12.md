@@ -134,9 +134,16 @@ End of 1960s: Too much has changed.
 
 ##Civil Rights Movement
 
-- 1954 (important year) 
+*Background for Civil Rights movement*
+
+- Role of Blacks in WWII (Squad leader – machine gun crew – november 1950 photo)
+- Fight against communism abroad, inequality at home – matter of perception
+- Beginning of the civil rights movement
+- 1948 – integration of armed forces by Truman
+
+- 1954 (important year)
       - Brown vs Board of Education – separate education ‘inherently unequal’ (since 1896 Plessy vs Ferguson)
-      - difference in funding received for the separate schools because of the difference in property tax paid by the poorer neighborhoods. 
+      - difference in funding received for the separate schools because of the difference in property tax paid by the poorer neighborhoods.
       - Eisenhower less committed to integration
       - not federal role, state role
 - August 1955 – Emmett Till
@@ -170,20 +177,22 @@ Challenge to integration of 9 black children – Eisenhower forced to federalise
 
 White people refused to admit Black people into the school. Parents, authorities, and even the teenagers were against the idea of integration. (e.g. Elizabeth eckford front – hazel bryan)
 
-###1957 Civil Rights Act
+###1957 Civil Rights Act 1957
 
-- Civil Rights Act 1957- ineffective,
+- Ineffective
 - Negros, niggers, colored, Black Americans, African-Americans
 - Civil rights dependent on President & prestige of his Office (how far he is willing to enforce civil rights)
 - Not dependent on personal feelings, but political orientation – Democrats or Republicans (close relationship of black votes with Democrat Party)
 
 ### Martin Luther King
 
-Middle class blacks for more than one generated.
+Middle class blacks for more than one generation.
 
 Martin Luther King, Christian minister – Gandhi - peaceful, non-violent protest – lunch counter sit-ins etc, 1960, Greensboro, N Carolina, 4 students
 
-- techniques effective - civil disobedience – disobey law & accept consequences if believe law is immoral (can protest by non-resistance, can only break rules that are immoral)
+- techniques effective:
+- civil disobedience
+- disobey law & accept consequences if one believes law is immoral (can protest by non-resistance, can only break rules that are immoral)
 
 e.g. 1960 Greensboro NC – 4 students – sit-ins
 
@@ -194,8 +203,8 @@ e.g. 1960 Greensboro NC – 4 students – sit-ins
 - Blacks initiated own civil rights movement  - 3 organisations:
 - SCLC, CORE, SNCC – de-segregate buses, lunch counters, libraries, & encouraging registration to vote
 - TV aided the Civil Rights movement: images were broadcasted on national TV / news
-        -  Images of children being attacked by fire hose & police dogs in Birmingham, Alabama, May 1963 
-        - MLK March on Washington, Aug 1963, ‘I have a dream’ speech at Lincoln Memorial tide turning (prominent whites were present at the speech)
+        -  Images of children being attacked by fire hose & police dogs in Birmingham, Alabama, May 1963
+        - MLK March on Washington, **Aug 1963, ‘I have a dream’ speech at Lincoln Memorial** tide turning (prominent whites were present at the speech)
 
 ### Deconstructing the MLK Speech - We Shall Overcome
 
