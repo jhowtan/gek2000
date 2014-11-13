@@ -86,7 +86,7 @@ ture, and the increasing availability of consumer goods have defined the nation'
 >they (Historians) have begun to ask some different questions
 about the New Deal, questions that are less concerned with establishing whether it was a good or bad thing than with explaining how it took the form it did, what effects it had, and how it helps illuminate larger pat- terns of political change in the twentieth century.
 
-* FDR is not omnipotent: there were a lot of constraints in forming the new deal
+* FDR is not omnipotent: there were a lot of constraints in forming the New Deal
 
 >Similarly, as James Patterson and others have shown, the clumsy, jerry-built welfare state that emerged from the New Deal (of which the
 expensive and inefficient Social Security System remains the center-
@@ -106,7 +106,7 @@ by the nature of American governmentaland political institutions.
 
 ---
 
-# Lecture
+# Lecture: The Greatest Generation comes home
 
 Greatest Generation: WWII soldiers who came home from the war.
 
@@ -119,34 +119,43 @@ Dwight Eisenhower (Ike) 1952 - First Republican president to gain office after 5
 Affluent society - American society after the war; 1945-65 high water point of American economics. Middle class grew trememndously. Economy was responsible for half of the world's economic output. Greatest income *equality* was seen during this period. Most people could consume at the same level as their neighbours. However, at least 10% of the population was poorer (discriminated against - Blacks).
 
 ---
+## Observations
 
-Great material prosperity in the 1950s - prosperity was shared unlike in the Gilded Age where wealth flowed to the top 5% of the population.
+**Great material prosperity in the 1950s** - prosperity was shared unlike in the Gilded Age where wealth flowed to the top 5% of the population.
 
-Also the beginning of the Cold War - feelings of insecurity and anxiety. Major turning point for America in its foreign policy. Europe has been defeated after the WWII, America got to set its own terms of engagement on the world.
+Also the **beginning of the Cold War** - feelings of insecurity and anxiety. Major turning point for America in its foreign policy. Europe has been defeated after the WWII, America got to set its own terms of engagement on the world.
 
-1950s - Period of Consensus and Conformity (conservative period)
+1950s - **Period of Consensus and Conformity** (conservative period)
 
-Anxiety over Soviet intentions - air raid shelter in homes (NY); would not have allowed someone to survive a nuclear war, people built blueprints anyway. Schoolchildren of that period had to undergo the practice of hiding under desks (fright).
+**Anxiety over Soviet intentions **- air raid shelter in homes (NY); would not have allowed someone to survive a nuclear war, people built blueprints anyway. Schoolchildren of that period had to undergo the practice of hiding under desks (fright).
 
-Activist role of president - 'most powerful man in the world' attached to the office and presidency of the US. Device was carried around that would signal to start sending nuclear weapons to the Soviet Union.
+**Activist role of president** - 'most powerful man in the world' attached to the office and presidency of the US. Device was carried around that would signal to start sending nuclear weapons to the Soviet Union.
 
-Size and role of the federal government became permanent due to FDR reforms - FDR introduced Social Security Numbers - social welfare (pension scheme) for Americans during retirement. Requires a permanent bureaucracy that would take care of these things.
+**Size and role of the federal government became permanent due to FDR reforms** - FDR introduced Social Security Numbers - social welfare (pension scheme) for Americans during retirement. Requires a permanent bureaucracy that would take care of these things.
 
-Permanent standing armed forces - permanent military force (no more massive demobilization) One reason was due to the threat of the Soviets, but secondly because it was now a world superpower. Heavily dependent on modern technology.
+**Permanent standing armed forces** - permanent military force (no more massive demobilization) One reason was due to the threat of the Soviets, but secondly because it was now a world superpower. Heavily dependent on modern technology.
 "With this great dependence on technology for the military" --> "military industrial complex" (Eisenhower) : American military has become so dependent on the military contractors that it is an unhealthy relationship which would be undesirable for US to go into the future. Military will keep commissioning more and more expensive equipment, economy will suffer due to the military spending over the consumer spending. 60-70% of US spending is accounted for by the individual. If military spending takes up too much of the economy, then the consumer spending will fall - dangerous.
 
-1945-mid60s - great economic boom - creation of a large middle class (GI Bill of Rights); Baby Boom (generation that was born after the war), demographic leap after the war - 1929 up to 1945: negative economic conditions meant that people could not afford that many kids; American males were fighting the war so fewer babies were born. Birth control pill was invented in the 1960s - this is where the Baby Boom generation ended. At every stage of the Baby Boom Generation's life - they drive all the trends (baby stage - consumption of milk, toys; teenagers - clothes etc. old - medicine, retirement homes) Numbers are greater than any other generation. Economic boom was also fuelled by defense spending.
+## Prosperity
 
-3 great cornerstones of spending in America (great indicator of how well US economy is doing - growth and consumption):
+**1945 - mid 60s: Great economic boom** - creation of a large middle class (GI Bill of Rights); Baby Boom (generation that was born after the war), demographic leap after the war - 1929 up to 1945: negative economic conditions meant that people could not afford that many kids; American males were fighting the war so fewer babies were born. Birth control pill was invented in the 1960s - this is where the Baby Boom generation ended. At every stage of the Baby Boom Generation's life - they drive all the trends (baby stage - consumption of milk, toys; teenagers - clothes etc. old - medicine, retirement homes) Numbers are greater than any other generation. Economic boom was also fuelled by defense spending.
+
+**3 great cornerstones of spending in America** (great indicator of how well US economy is doing - growth and consumption):
 
 * Housing - durables
 * Automobiles
 * Military
 
-Part of the boom:
+**Part of the boom:**
 
+* Creation of suburbs & bedroom communities
+* Highway construction & integration of South into national economy
+* TV in the 1950s & other leisure activities
 
-Role of women:
+**Role of women:**
 
+Back to the home:
 
-*To be continued in another lecture*
+1. Single income sufficient,
+2.  Bedroom communities – father, little role in upbringing of kids
+
