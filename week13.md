@@ -1,6 +1,89 @@
 # Week 13
 
-# After WWII
+# Tutorial 9 – the 1960s
+
+## 1. For the set of readings on American women, please trace the different aspirations and tone used by the various authors.
+
+* Years of extraordinary political and cultural unrest, especially from young adults of the baby boom generation.
+* Women of various backgrounds devoting tremendous energy to political movements.
+* Development of feminist movements.
+
+* Betty Fredan on "The Problem that has no name" 1963
+    - The women don't know what they don't know.
+    - Their problem/wants is just to large for them to identify/work towards.
+    - Aspiration of the author:
+        + To do more than doing the house work, being the house wife; confined to domestic role
+        + *"We can no longer ignore that voice within women that says: “I want something more than my husband and my children and my home.”"*
+        + Ability to find fulfillment in pursuing hobbies and interests without giving up their roles as housewives (ability to juggle both)
+        + women taught to be housewives/faithful/role in the home, not to have dreams of becoming poets/physicists/etc (higher careers, ideals - positions held by men) p.439
+        + Want more than just being confined to their domestic roles
+    - Tone used:
+        + Dissatisfaction, and yearning to do more a salient issue that can't be ignored.
+    - Ability to make choices (Consumerism) empowered the housewife (purchasing power)
+        + have a say in every purchase they make in the household
+    - Mass consumerism in the 20th Century: 60 years from the beginning of Consumerism. People have taken it for granted over time.
+    - Men also a cause of the problem because of efforts to preserve their own spheres of influence/power.
+
+* Casey Haden and Mary King, "A Kind of Memo" to women in the peace and freedom movements, p.443; 1965
+    - Existence of hiearchical, caste-like systems that dictates roles assigned to women.
+    - Women experimenting within existing institutions (e.g. marriage)
+    - Inability of men to understand the problem, to see it as an important/serious issue - place blame on men
+    - lack of community for discussion; no easy way to talk about issues
+    - Aspiration:
+        + Advance their rights by joining interest groups / movements
+        + Irony is that the person running the movement is unable to vocalise their desires (very little knowledge or awareness or are still wrapped in these ideas)
+        + Get rid of the mentality ^
+        + To create a "community of support" for each other; to talk about issues openly; building a society which would see private troubles as public problems; shaping institutions to meet human needs (p.444)
+
+* NOW's statement of purpose, 1966
+    - Tone: Assertive, peaceful (vs radical - Redstockings)
+        + Identify culprit: the 'system' (social conventions)
+    - Aspiration:
+        + true equality for all women, equal partnership of all sexes, bringing women into all participation in mainstream American society.
+    - Similar to Jim Crow laws, women find themselves in a similar situation.
+
+* Redstockings Manifesto, 1969
+    - Tone: Confrontational, radical
+        + Culprit - men.
+    - Aspiration:
+        + Fight for equal privileges
+
+* Fraces Beale, "Double Jeopardy: TO be Black and Female", p.449, 1970
+    - Doubly jeopardised.
+    - Black family structure is fractured:
+        + Men supposed to work, bring home the bacon.
+        + Black men cannot find a job because they are thought to be lazy.
+        + Black women can find jobs but in kitchens (domestic helpers)
+        + Social conventions dictate that women take care of the domestic household; while they deal with earning income.
+        + Emasculation of men because women have replaced their role.
+        + DOMESTIC VIOLENCE occur because of the emasculation of Black men.
+        + High divorce rates stem from these situations.
+    - Identiies the culprit: "Must fight capitalism, must fight racism" (p.453)
+
+## 2. For the set of readings on Martin Luther King and the blacks, we will concentrate on Reverend King’s speech.
+
+* Analogy of "cashing a check" p.361
+* "Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred" p.362
+    - addressing nonviolence on his part, speaking out to Malcolm X
+    - addressing the black people as well
+    - very aware that sentiments spread very easily, and that sentiments lead to generalizations; exactly what he wants to avoid
+* "Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification"
+    - speaking out on Govnr Wallace, segregated education
+
+## 3. For the Bruce Schulman reading, please concentrate on the section, subtitled, Cracks in the Consensus, pp 8-13
+
+- "Our young people, in disturbing numbers, appear to reject all forms of authority, from whatever source derived, and they have taken refuge in a turbulent and inchoate nihilism whose sole objectives are destructive" p.9
+- "They do not agree with the way their universities deal with these questions. As a practical matter, they cannot leave the universities, so they are fighting for a part in the decision making process." p.10
+    + Either get good grades and start working which goes against anti-establishment mentality.
+    + Get out of uni, but forced to conscript to fight in the Vietnam War. No way to escape out of this dilemma.
+- "the Yippies nominated their own presidential candidate - a huge sow they named Pigasus"
+    + Televised Pigasus got the police very angry.
+    + Television made Vietnam the most televised war in history.
+    + Television changed the political landscape in America.
+    + (Power of media changing perceptions in American history)
+
+
+# Lecture: After WWII
 
 Superpower: vast stockpiles of atomic weapons; ability to project power beyond own territories, waters, region. Hard and soft power. Strong naval fleet supplemented by aircraft carriers and bases in friendly countries.
 
