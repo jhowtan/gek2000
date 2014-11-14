@@ -1,5 +1,7 @@
 #Week 9
 _Week 8 was a hiatus week (Hari Raya Haji) - no class_
+
+## Tutorial 6
 ## Question 1
 
 > From the Foner reading (p144 - 161), critically evaluate the new definition of American freedom and modernity __concentrate on pg 147-151__
