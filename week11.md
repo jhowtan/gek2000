@@ -1,3 +1,4 @@
+
 # Week 11
 #Tutorial 7, The US between the Wars
 
@@ -9,12 +10,12 @@ a. Summarize what different historians have said about the 25 years.
 b. Why have the interpretations changed and evolved since the 1950s?
 
 ---
-25 Years: Progressive Era / Jazz Age / Great Depression / New Deal
+
+*25 Years: Progressive Era / Jazz Age / Great Depression / New Deal*
 
 ## PATTERNS OF HISTORICAL EXPLANATION (HISTORIOGRAPHY)
 
-**Schlesinger**: American history as a cyclical pattern ("a con-
-tinuing shift in national involvement, between public purpose and pri vate interest")
+**Schlesinger**: American history as a cyclical pattern ("a continuing shift in national involvement, between public purpose and private interest")
 
 * Predictability of a cyclical pattern is to cope with the unpredictability of the rise and fall.
 * People find difficulty in coping with change (esp with sudden changes)

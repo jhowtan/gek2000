@@ -7,6 +7,14 @@ In order of descending neutrality: (tone has changed from 1935 - 1942)
 
 ## Gerald P. Nye (Causes of War)
 
+**Business pressures on Wilson administration for entry into war**
+
+Even if the State did not want to get involved in war, private companies/organizations were not an exception to the rule of neutrality.
+
+>"Sales and shipments of munitions and contraband, and the lure of the profits in them, that will get us into another war" p.167
+
+Since war is for economic purposes, therefore cannot be part of economic alliances, providing arms --> not neutral. Government loans ot any belligerents is "inconsistent with the spirit of neutrality". Even if the state opposes loans, bankers will not (for profit)
+
 * against war
 * america's involvement in wwi was economic in nature (for money)
 * bad because it violates neutrality
@@ -24,10 +32,13 @@ In order of descending neutrality: (tone has changed from 1935 - 1942)
 ## FDR (Chautauqua)
 
 * tone: no urgency on FDR's part to enter the war.
+* President given authority by congress to maintain neutrality (neutrality acts)
+* war profits a factor in pushing country to war, some could sway public opinion that it is beneficial for local economy, choosing peace is more important than profits.
 
 >They would tell you — and, unfortunately, their views would get wide publicity — that __if they could produce and ship this and that and the other article to belligerent nations the unemployed of America would all find work__, They would tell you that if they could extend credit to warring nations that credit would be used in the United States to build homes and factories and pay our debts. They would tell you that America once more would capture the trade of the world.
 
 * already knew that by 1936 for america to get out of depression was to go into war spending but he did not get america into the war.
+* i.e. Entering the war would eliminate or decrease unemployment, but FDR chose not to join the war - New Deal did not solve GD, entry into WW2 did.
 
 >If we face the choice of profits or peace, the Nation will answer- must answer — "we choose peace."
 
@@ -35,11 +46,17 @@ In order of descending neutrality: (tone has changed from 1935 - 1942)
 * 1936 in Europe war situation was not very urgent; early stage of tripartite act.
 * anything that does not involve britain or france directly, america would otherwise have not involved herself in matters of war.
 
-## FDR (Quarantine)
+## FDR (Quarantine Speech)
 
 * general view: still inclined to avoid war
 * but: realised that the danger is encroaching - 1937 marco polo bridge incident. Asia started WWII even earlier (as some historians may argue)
 * may not be possible to maintain isolationist and neutral attitudes
+* Foundations of civilisation threatened,; landmarks and traditions which had aimed to develop a condition of law, order, and justice being wiped away.
+* nations invading without warning, interfering in affairs
+* need to respect freedom and rights of neighbours to ensure peace, law, moral principles
+* complex interdependence globally makes isolationism difficult (from economic and political upheavals elsewhere)
+* peace allows funds to be channeled to infrastructure/development instead of arms
+* peace being threatened by expansionist/aggressive nations with disregard for int'l treaties/norms
 
 >I am compelled and you are compelled, nevertheless, to look ahead. eace the freedom and the securit of ninet ercent of theo ulation
 of t worldis bein 'eoardizedbtheremainintenercentwhoare threatemn a breakdown of aii international order and iaw.
@@ -59,6 +76,14 @@ approves and joins in a quarantine of the patients in order to protect the healt
 ## FDR (Arsenal of Democracy)
 
 * WWII has already started, France would fall in 4 months.
+* Formation of axis powers threatening to unite against US if US interferes/blocks expansion of the axis powers.
+* unchecked axis powers will eventually come to threaten the US or the fall of the British would result in the same outcome.
+* results in permanent militaristic power for US -> war economy (military industrial complex)
+    - getting acquainted with war; but not yet directly involved.
+* "New order" one of dictatorship and authoritarianism; goes against ideals/values of democracy
+* supporting nations fighting against Axis powers such that no need for direct war, to prevent war from reaching US if Allies defeated.
+* "Arsenal of Democracy" - refers to the taking up of arms to fight for democracy
+
 * FDR tone: complete militarisation of america.
 
 >To survive in such a world, we would have to convert ourselves permanently into a militaristic power on the basis of war economy
@@ -71,18 +96,24 @@ as serious as war itself. We must apply ourselves to our task with the same reso
 * america has not entered the war at this point yet. (Pearl Harbor)
 
 ## Charles A Beard (Lend-lease 1941)
-
+* "Bill for waging an undeclared war"
+* Bill argued to help keep US directly out of war
+* "buying peace" while others fighting for US' war for democracy and defence
+* Shameful for foreign soldiers to fight and die for US.
 * thinly veiled attempts at helping britain and france by now
 * lend-lease is pointless because they are just "buying peace"
 * if i want to help, i should help fully; if i don't want then I shouldn't even do lend-lease at all.
 * If we lend them money, the natural next step is to lend them American Soldiers.
-* What good will it do to help if it actually does not guarantee the success/victory of British - Britain has not completely crumbled because they are separated by the English channel from the European hinterlands.
+* What good will it do to help if it (bill) actually does not guarantee the success/victory of British - Britain has not completely crumbled because they are separated by the English channel from the European hinterlands.
 * Rather than spend money on others, should spend money to consolidate all the resources to protect American soil.
 * D-day victory secured for Europe by the Americans.
 
 ## FDR's War Message
 
 * Bypass the congress to wage war.
+* due to the undeclared act of war by Japanese
+* previous message only stated the futility of existing diplomatic negotiations
+* "All measures be taken for our defense", and make sure such an attack against US will never happen again
 * Article 1 of the Constitution talks about congress and house of representatives; only congress has the power to declare war, and allocate budget for military. All the military administration is handled by the congress.
 * Article 2 talks about executive (presidency); President's role after declaration of war is to command the army.
 * This was a great leap in the constitution - groundbreaking speech that not only goes by the war rhetoric but also lets FDR declare war as a unilateral decision which he was not allowed/supposed to.

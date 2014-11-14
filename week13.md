@@ -40,6 +40,9 @@
         + Identify culprit: the 'system' (social conventions)
     - Aspiration:
         + true equality for all women, equal partnership of all sexes, bringing women into all participation in mainstream American society.
+    - belief that constitution should be applied to ensure enforcement of civil rights for all and equality of opportunity
+    - belief that women should not be forced to choose between motherhood and serious profession/occupation.
+    - equality of education via affirmtive action, especially higher education
     - Similar to Jim Crow laws, women find themselves in a similar situation.
 
 * Redstockings Manifesto, 1969
@@ -47,6 +50,11 @@
         + Culprit - men.
     - Aspiration:
         + Fight for equal privileges
+    - building unity of women to achieve "final liberation" from male supremacy
+    - women oppressed, and personal suffering not seen as political condition due to isolation
+    - men the agents of oppression; most basic form of domination which extends to other forms of exploitation (eg. racism/capitalism)
+    - developing female class consciousness by sharing experiences
+    - disregards race/economic status of all women (collective)
 
 * Fraces Beale, "Double Jeopardy: TO be Black and Female", p.449, 1970
     - Doubly jeopardised.
@@ -59,20 +67,32 @@
         + DOMESTIC VIOLENCE occur because of the emasculation of Black men.
         + High divorce rates stem from these situations.
     - Identiies the culprit: "Must fight capitalism, must fight racism" (p.453)
+    - domestic women is a parasite and a "legalised prostitute"
+    - black women are not like white women who can afford to stay home and care for their young
+    - different family dynamics - blame capitalism - "slave of slaves", "minority within the minority"
 
 ## 2. For the set of readings on Martin Luther King and the blacks, we will concentrate on Reverend King’s speech.
 
 * Analogy of "cashing a check" p.361
+    - pointing towards upper/middle class who have savings / bank accounts
 * "Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred" p.362
     - addressing nonviolence on his part, speaking out to Malcolm X
-    - addressing the black people as well
+    - addressing the black people as well - "Must forever conduct our struggle on the high plane of dignity and discipline" p. 362
     - very aware that sentiments spread very easily, and that sentiments lead to generalizations; exactly what he wants to avoid
 * "Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification"
     - speaking out on Govnr Wallace, segregated education
+    - references to deep southern states
+* Mentions blacks still not granted inalienable rights laid down in constitution; still not free even after emancipation
+* Have the support of several whites, cannot distrust all of them as they provide support; demonstration has to be biracial.
 
 ## 3. For the Bruce Schulman reading, please concentrate on the section, subtitled, Cracks in the Consensus, pp 8-13
-
-- "Our young people, in disturbing numbers, appear to reject all forms of authority, from whatever source derived, and they have taken refuge in a turbulent and inchoate nihilism whose sole objectives are destructive" p.9
+- Growing disaffected with national liberalism
+- Liberals view war in Vietnam as fight for freedom against tyranny (ideological conflict); radicals saw war as imperialist domination and repression.
+- Younger generation's disrespect of authority; generational gap
+   + "Our young people, in disturbing numbers, appear to reject all forms of authority, from whatever source derived, and they have taken refuge in a turbulent and inchoate nihilism whose sole objectives are destructive" p.9
+- Change in societal norms: legal restrictions on personal behaviour softened; restoration of obscenity laws/ abortion restrictions/ regulations on sale of contraceptives.
+    + reflected broader shifts in sexual behaviour, living arrangements, etc.
+- Some sought reconstruction of institutions along non-patriarchal lines (radical feminism)
 - "They do not agree with the way their universities deal with these questions. As a practical matter, they cannot leave the universities, so they are fighting for a part in the decision making process." p.10
     + Either get good grades and start working which goes against anti-establishment mentality.
     + Get out of uni, but forced to conscript to fight in the Vietnam War. No way to escape out of this dilemma.
@@ -82,6 +102,7 @@
     + Television changed the political landscape in America.
     + (Power of media changing perceptions in American history)
 
+---
 
 # Lecture: After WWII
 

@@ -1,5 +1,5 @@
 
-# Week 10
+# Week 10: Lecture
 
 **‘The Good War’** - ideological 'good' guys, morally superior; fighting against the tyranny of the Nazis; not found evidences of US troops committing atrocities on civilian population (as compared to Korea and Vietnam). Troops from this war are venerated as the 'Greatest Generation' (popularized only in the last 20 years).
 
