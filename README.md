@@ -21,7 +21,8 @@ The existing list of notes built can be found below.
 
 ## PDF scanned handwritten notes
 
-*To be uploaded*
+* [Tutorial 5](https://github.com/jhowtan/gek2000/blob/master/Tutorial%205.pdf)
+* [Tutorial 6](https://github.com/jhowtan/gek2000/blob/master/Tutorial%206.pdf)* [Tutorial 7](https://github.com/jhowtan/gek2000/blob/master/Tutorial%207.pdf)* [Tutorial 8](https://github.com/jhowtan/gek2000/blob/master/Tutorial%208.pdf)* [Tutorial 9](https://github.com/jhowtan/gek2000/blob/master/Tutorial%209.pdf)* [Course Full Text Summary](https://github.com/jhowtan/gek2000/blob/master/summary-1.pdf)
 
 ##Themes for Exam
 
